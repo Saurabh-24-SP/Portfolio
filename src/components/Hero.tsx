@@ -162,15 +162,15 @@ export default function Hero() {
                   {/* Logo - Use initials as placeholder */}
                   <div className="w-full h-full flex items-center justify-center bg-gradient-to-br from-primary to-secondary text-white font-bold text-xl relative z-10">
                     <img 
-                    src="/assets/Saurabh.jpg" 
+                    src="/Saurabh.jpg" 
                     alt="Admin" 
                     className="w-full h-full object-cover" 
                   />
                   </div>
                   {/* Alternative: Use image when you have a logo */}
-                  {/* <img src="/assets/logo.png" alt="Logo" className="w-full h-full object-cover relative z-10" /> */}
+                  {/* <img src="/logo.png" alt="Logo" className="w-full h-full object-cover relative z-10" /> */}
                   {/* Alternative: Use profile photo */}
-                  {/* <img src="/assets/Saurabh.jpg" alt="Saurabh Prajapati" className="w-full h-full object-cover relative z-10" /> */}
+                  {/* <img src="/Saurabh.jpg" alt="Saurabh Prajapati" className="w-full h-full object-cover relative z-10" /> */}
                 </motion.div>
                 
                 {/* Active Now Green Dot */}
@@ -530,7 +530,7 @@ export default function Hero() {
             >
               <div className="w-80 h-80 md:w-96 md:h-96 rounded-full overflow-hidden border-4 border-primary/30 shadow-2xl shadow-primary/20 group-hover:border-primary/60 group-hover:shadow-primary/50 transition-all duration-500 cursor-pointer">
                 <img
-                  src="/public/Saurabh.jpg"
+                  src="/Saurabh.jpg"
                   alt="Saurabh Prajapati"
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
                 />
