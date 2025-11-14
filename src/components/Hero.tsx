@@ -530,7 +530,7 @@ export default function Hero() {
             >
               <div className="w-80 h-80 md:w-96 md:h-96 rounded-full overflow-hidden border-4 border-primary/30 shadow-2xl shadow-primary/20 group-hover:border-primary/60 group-hover:shadow-primary/50 transition-all duration-500 cursor-pointer">
                 <img
-                  src="/public/assets/Saurabh.jpg"
+                  src="/public/Saurabh.jpg"
                   alt="Saurabh Prajapati"
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
                 />
